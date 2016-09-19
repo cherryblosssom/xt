@@ -16,7 +16,7 @@ api技术架构：
 
 技术特征：ssj,全注解,redis
 
-web技术架构
+web技术架构：
 <br/>&nbsp;&nbsp;1、web采用面向对象的方式编写，对所有的操作提供xt框架支持，进行封装，简化操作;
 <br/>&nbsp;&nbsp;2、页面模板kuang'jiaatrtempleate;
 <br/>&nbsp;&nbsp;3、页面模板admin lte;
