@@ -26,3 +26,7 @@ web技术架构：
 <br/>&nbsp;&nbsp;7、数据请求方式ajax;
 
 技术特征：hmtl5,bootstarp,datatables
+
+计划：
+<br/>&nbsp;&nbsp;2016年完成权限系统
+<br/>&nbsp;&nbsp;2017年设计并完成流引擎
